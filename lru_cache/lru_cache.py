@@ -31,3 +31,10 @@ class LRUCache:
     """
     def set(self, key, value):
         pass
+
+
+#What are some applications of LRU (less) caches? 
+
+#How would you add functionality to the cache (in pseudocode) to remove entries that are older than a cutoff age from the cache? O(n) time is OK. 
+
+#How would you remove entries as above in O(1)
